@@ -1,4 +1,4 @@
-<img width="1280" height="621" alt="image" src="https://github.com/user-attachments/assets/41e887ee-1c6f-4295-b003-d8110c4c5cf2" /># PUNTO 1 — Web Scraping Concurrente de Herramientas Electrónicas (Selenium + Hilos + Mutex + Semáforo)
+# PROYECTO DE TERCER CORTE
 
 # Descripción General
 
